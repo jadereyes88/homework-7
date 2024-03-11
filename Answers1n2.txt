@@ -1,0 +1,18 @@
+1.
+The similarities between PHP and JavaScript are:
+
+Both are interpreted languages with C-like syntax.
+They are dynamically typed.
+Used in web development for scripting.
+Differences between PHP and JavaScript:
+
+PHP is mainly on the server-side, while JavaScript is primarily on the client-side.
+JavaScript can be used with Node.js for server-side scripting, unlike PHP.
+PHP is used for back-end development, while JavaScript is for both front-end and back-end.
+
+2.
+MVC (Model-View-Controller):
+
+Model: Manages data and business logic.
+View: Handles the display and user interface.
+Controller: Connects the Model and View, managing user input and application logic.
