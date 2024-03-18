@@ -16,9 +16,9 @@ class MainController extends Controller
 
         echo $template->render($homepageData);
     }
-
+//use include here to use html file 
     public function notFound() {
-        $template = $this->twig->load('404.twig');
+        $template = $this->twig->load('app/public/assets/views/404.twig');
         echo $template->render([]);
     }
 
